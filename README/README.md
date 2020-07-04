@@ -29,19 +29,19 @@ THEN I find a concise, descriptive title
 
 ## Testing
 Testing available through the Bureau of Internet Accessibility
-### Visual
-https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-visual-disabilities
-### Auditory
-https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-auditory-disabilities
-### Cognitive, Nuerological, Learning
-https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-cognitive-learning-and-neurological-disabilities
-### Physical
-https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-physical-disabilities
-### Speech
-https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-speech-disabilities
+
+[Visual](https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-visual-disabilities)
+
+[Auditory](https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-auditory-disabilities)
+
+[Cognitive, Nuerological, Learning](https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-cognitive-learning-and-neurological-disabilities)
+
+[Physical](https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-physical-disabilities)
+
+[Speech](https://www.boia.org/blog/how-do-we-perform-accessibility-testing-for-the-impact-of-speech-disabilities)
 
 ## References
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
+[Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-https://moz.com/learn/seo/alt-text
+[Alt-text](https://moz.com/learn/seo/alt-text)
