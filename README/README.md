@@ -6,6 +6,7 @@
   * [Acceptance Criteria](#acceptance-criteria)
   * [Testing](#testing)
   * [References](#references)
+  * [License](#license)
 
 ## Background
 Accessibility focuses on how a disabled person accesses or benefits from a site, system or application. Accessibility is an important part of the designing your site and should be considered throughout the development process. Section 508 is the governing principle and it requires that all government information be accessible to disabled users. (https://www.usability.gov/what-and-why/accessibility.html)
@@ -52,3 +53,6 @@ Testing available through the Bureau of Internet Accessibility
 [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 [Alt-text](https://moz.com/learn/seo/alt-text)
+
+## License
+[License Information](LICENSE)
