@@ -55,4 +55,8 @@ Testing available through the Bureau of Internet Accessibility
 [Alt-text](https://moz.com/learn/seo/alt-text)
 
 ## License
+MIT License
+
+Copyright :copyright: 2020 Lauren Hooper
+
 [License Information](LICENSE)
