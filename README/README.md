@@ -1,4 +1,11 @@
 # Horiseon: Code Refactor
+## Table of Contents
+  * [Background](#background)
+  * [Goals](#goals)
+  * [Client Request](#client-request)
+  * [Acceptance Criteria](#acceptance-criteria)
+  * [Testing](#testing)
+  * [References](#references)
 
 ## Background
 Accessibility focuses on how a disabled person accesses or benefits from a site, system or application. Accessibility is an important part of the designing your site and should be considered throughout the development process. Section 508 is the governing principle and it requires that all government information be accessible to disabled users. (https://www.usability.gov/what-and-why/accessibility.html)
